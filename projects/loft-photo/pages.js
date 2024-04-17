@@ -11,6 +11,6 @@ export default {
 
     currentPage?.classList.add('hidden');
     currentPage = element;
-    currentPage.classList.remove('hidden')
+    currentPage.classList.remove('hidden');
   },
 };
